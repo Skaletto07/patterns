@@ -1,4 +1,4 @@
-package patterns.builder.androidExample;
+package patterns.builder.computer;
 
 public class Computer {
 
