@@ -1,4 +1,4 @@
-package patterns.muliton.composite.ex2;
+package patterns.composite.ex2;
 
 public class Product extends Component {
     private int price;

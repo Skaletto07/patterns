@@ -1,4 +1,4 @@
-package patterns.muliton.composite.ex1;
+package patterns.composite.ex1;
 
 public class Book extends BookComponent {
     String Isdn;

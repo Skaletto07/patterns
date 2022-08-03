@@ -1,4 +1,4 @@
-package patterns.muliton.composite.ex1;
+package patterns.composite.ex1;
 
 import java.util.ArrayList;
 import java.util.Iterator;

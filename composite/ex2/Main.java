@@ -1,4 +1,4 @@
-package patterns.muliton.composite.ex2;
+package patterns.composite.ex2;
 
 public class Main {
     public static void main(String[] args) {
